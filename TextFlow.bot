@@ -1,0 +1,18 @@
+{
+    "name": "TextFlow",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "e5c8b040-cdcc-11ec-9572-e1cc93e9812b",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "D:\\investigacion\\chat-bot\\TextFlow\\TextFlow.bot",
+    "overrides": null
+}
